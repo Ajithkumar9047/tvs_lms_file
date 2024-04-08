@@ -1,0 +1,9 @@
+2023-12-29 10:36:54,421 [INFO]: Threshold master: 4840
+2023-12-29 10:36:57,470 [INFO]: Threshold FEED: 309
+2023-12-29 10:36:58,956 [INFO]: Total null: 309
+2023-12-29 10:36:58,962 [ERROR]: thresholdMaster and thresholdfeed count is not equal
+2023-12-29 11:16:59,307 [INFO]: Threshold master: 4840
+2023-12-29 11:17:00,744 [INFO]: Threshold FEED: 4840
+2023-12-29 11:17:01,118 [INFO]: Total null: 343
+2023-12-29 11:17:01,631 [INFO]: Number of rows updated: 343
+2023-12-29 11:17:06,830 [INFO]: Count Email sent successfully!
